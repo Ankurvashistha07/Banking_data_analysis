@@ -1,13 +1,13 @@
 # Banking_data_analysis
 Exploratory Data Analysis (EDA) of the Bank Marketing dataset using Python, Pandas, Seaborn, and Matplotlib to visualize data patterns and understand factors affecting term deposit subscription.
 
-# Project Overview
+## Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Bank Marketing dataset using Python. The goal is to understand customer data, identify important patterns, and explore factors that influence whether a customer subscribes to a term deposit offered by a bank.
 
 EDA is a critical first step in any data science workflow because it helps uncover data structure, detect anomalies, and prepare the dataset for future machine learning modeling.
 
-# Project Objectives
+## Project Objectives
 
 ### The main objectives of this project are:
 
@@ -49,7 +49,7 @@ The dataset contains information related to direct marketing campaigns conducted
   • Yes = Subscribed
   • No = Did not subscribe
 
-# Technologies & Tools Used
+## Technologies & Tools Used
 
 This project uses the following tools and libraries:
 
@@ -61,7 +61,7 @@ This project uses the following tools and libraries:
 • Jupyter Notebook – Interactive analysis environment
 
 
-# Analysis Performed
+## Analysis Performed
 
 1️⃣ Data Inspection
 
@@ -91,7 +91,7 @@ This project uses the following tools and libraries:
 • Generated histograms for numeric distributions
 • Built heatmaps to identify feature relationships
 
-📈 Key Insights
+## Key Insights
 
 Some insights discovered during analysis include:
 
@@ -99,7 +99,7 @@ Some insights discovered during analysis include:
 • Certain numerical features show weak correlations, suggesting independent behavior.
 • Campaign-related features (such as contact duration) appear to strongly influence outcomes.
 
-# How to Run This Project
+## How to Run This Project
 
 ### Follow these steps to run the analysis locally:
 
@@ -134,7 +134,7 @@ Through this project, the following skills were developed:
 • Understanding of correlation and feature relationships
 • Practical experience with Python data science libraries
 
-# Future Improvements
+## Future Improvements
 
 Possible next steps for this project include:
 
