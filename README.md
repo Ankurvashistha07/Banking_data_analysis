@@ -60,7 +60,6 @@ This project uses the following tools and libraries:
 • Seaborn – Statistical visualization
 • Jupyter Notebook – Interactive analysis environment
 
-
 ## Analysis Performed
 
 1️⃣ Data Inspection
@@ -122,7 +121,11 @@ Open the Jupyter Notebook and execute the cells step-by-step.
 ## Project Structure
 ├── Bank_Marketing_Inspection_test.ipynb
 ├── README.md
-└── dataset file (if included)
+└── dataset file
+
+## Skills Used
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | Data Visualization | EDA
 
 ## Learning Outcomes
 
